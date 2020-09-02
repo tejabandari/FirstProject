@@ -1,6 +1,8 @@
 
 This is the first file that I have created on GIT
 
-Hello
+Hello GIT,
+
+Please do the needful
 
 Thank you
